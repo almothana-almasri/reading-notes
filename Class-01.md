@@ -1,4 +1,4 @@
-1. ## Pain and Suffering
+## **Pain and Suffering**
 ### Main Challenges for Python Beginners
 
 - Mental stress from tackling new problems
@@ -19,13 +19,13 @@
 
 ---
 
-2. ## Beginners Guide to Big O
+## **Beginners Guide to Big O**
 
 Time complexity and space complexity describe an algorithm's performance. Time complexity refers to the execution time, while space complexity refers to the memory usage. Both are represented using Big O notation, which describes the worst-case scenario. Understanding these complexities helps us choose efficient algorithms for specific tasks and data sets.
 
 ---
 
-3. ## Names and Values in Python
+## **Names and Values in Python**
 
 In Python, data types are classified as mutable or immutable based on whether their values can be altered after creation.
 

@@ -4,10 +4,11 @@
 
 ---
 
-## Code 102 - Intro to Software Development
-## Code 201 - Foundations of Software Development
-## Code 301 - Intermediate Software Development
-## Code 401 - Advanced Software Development
+## Course Levels
+- Code 102 - Intro to Software Development
+- Code 201 - Foundations of Software Development
+- Code 301 - Intermediate Software Development
+- Code 401 - Advanced Software Development
 
 ---
 
@@ -16,8 +17,10 @@
 1. ## [Class 01](Class-01.md)
 
 ---
-- ## [Engineering Readings](Engineering.md)
-- ## [Data Structures and Algorithms](Data.md)
-- ## [The Command Line](CommandLine.md)
-- ## [The Growth Mindset ](GrowthMindset.md)
-- ## [SQL Practice](SQLpractice.md)
+
+## **Additional Readings**
+- [Engineering Readings](Engineering.md)
+- [Data Structures and Algorithms](Data.md)
+- [The Command Line](CommandLine.md)
+- [The Growth Mindset](GrowthMindset.md)
+- [SQL Practice](SQLpractice.md)
