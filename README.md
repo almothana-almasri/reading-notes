@@ -84,3 +84,20 @@ The command line is a text-based interface for interacting with the computer. It
     rm: Remove a file or directory (with the -r option)
     cp: Copy a file or directory
     mv: Move or rename a file or directory
+
+# The Growth Mindset 
+
+## Key Takeaways
+
+- Deliberate practice is essential for developing technical skills and expertise.
+- Embracing a growth mindset encourages continuous learning and improvement.
+- Grit and determination are crucial for overcoming obstacles and achieving long-term goals.
+- Redefining success allows us to focus on personal growth and the impact we have on others.
+- Assessing emotional intelligence and biases helps us identify areas for personal development and fosters better interpersonal relationships.
+
+# SQL Practice
+
+![Alt text](assets/Screenshot%20(46).png)
+![Alt text](assets/Screenshot%20(47).png)
+![Alt text](assets/Screenshot%20(48).png)
+![Alt text](assets/Screenshot%20(49).png)
