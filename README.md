@@ -4,19 +4,16 @@
 
 ---
 
+## **Classes Readings**
+
 ## [Code 401 - Advanced Software Development](Code-401/Code-401.md)
 
 ---
 
-## **Classes Readings**
+## **Prep Readings**
 
-1. ## [Class 01](Code-401/Class-01.md)
-
----
-
-## **Additional Readings**
-- [Engineering Readings](Engineering.md)
-- [Data Structures and Algorithms](Data.md)
-- [The Command Line](CommandLine.md)
-- [The Growth Mindset](GrowthMindset.md)
-- [SQL Practice](SQLpractice.md)
+- [Engineering Readings](Prep-Readings/Engineering.md)
+- [Data Structures and Algorithms](Prep-Readings/Data.md)
+- [Practice in the Terminal](Prep-Readings/CommandLine.md)
+- [The Growth Mindset](Prep-Readings/GrowthMindset.md)
+- [SQL Practice](Prep-Readings/SQLpractice.md)
