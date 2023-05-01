@@ -1,3 +1,4 @@
+[Back to Home](../README.md)
 # Data Structures and Algorithms
 
 1. One of the more important things to consider when deciding which data structure is best suited to solve a particular problem is the time complexity and efficiency of operations that will be performed frequently on the data structure. Choosing the appropriate data structure can greatly impact the overall performance and speed of the algorithm.
