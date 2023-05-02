@@ -1,4 +1,4 @@
-[Back to Home](../README.md)
+[&leftarrow; Back to Home](../README.md)
 # The Command Line
 
 The command line is a text-based interface for interacting with the computer. It allows us to execute commands and perform various tasks, like navigating directories and manipulating files.

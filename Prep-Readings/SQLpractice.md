@@ -1,4 +1,4 @@
-[Back to Home](../README.md)
+[&leftarrow; Back to Home](../README.md)
 # SQL Practice
 
 ---
