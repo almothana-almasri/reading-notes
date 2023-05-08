@@ -22,13 +22,14 @@ Classes and objects are used to create reusable code and to model real-world obj
 
 Recursion is a programming technique where a function calls itself to solve a problem. It is a useful technique in solving problems that can be broken down into smaller and simpler subproblems. Here's an example:
 
-    ```python
-    def factorial(n):
-    if n == 1:
-        return 1
-    else:
-        return n * factorial(n-1)
-    ```
+```python
+def factorial(n):
+if n == 1:
+    return 1
+else:
+    return n * factorial(n-1)
+```
+
 **When implementing a recursive function, there are several best practices to follow:**
 
 1. Identify the base case: This is the condition that stops the recursion and returns a value.
