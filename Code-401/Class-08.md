@@ -1,55 +1,46 @@
 [Back to Home](../README.md)
 
-## Stacks and Queues
+1. **Python List Comprehension:**
 
-In computer science, Stacks and Queues are dynamic sets that represent collections of elements and support various operations. 
+    List comprehension is a concise way to create lists in Python. It is a syntactic construct which creates a new list by applying an expression to each element in an iterable. It's often used for its readability and speed.
 
-A Stack is a data structure that follows the Last-In-First-Out (LIFO) principle, meaning the last element added is the first one to be removed. Key operations in a stack include `push` (adds an element to the stack), `pop` (removes the top element), `peek` or `top` (returns the top element without removing it), and `isEmpty` (checks if the stack is empty). Here's an example of how you might implement a simple stack in Python:
+    Here's the basic syntax:
+    ```
+    [expression for item in iterable]
+    ```
+    If you want to square the elements in a given list of integers, here's how you could do it with list comprehension:
+    ```
+    numbers = [1, 2, 3, 4, 5]
+    squares = [n**2 for n in numbers]
+    ```
 
-```python
-class Stack:
-    def __init__(self):
-        self.stack = []
+    This is equivalent to the following for loop:
+    ```
+    numbers = [1, 2, 3, 4, 5]
+    squares = []
+    for n in numbers:
+        squares.append(n**2)
+    ```
+    The main difference between list comprehension and a for loop is that list comprehension is more concise and readable when you want to create a new list based on an existing one. It can also be more efficient in some cases.
 
-    def push(self, item):
-        self.stack.append(item)
+2. **Decorators in Python:**
 
-    def pop(self):
-        if len(self.stack) < 1:
-            return None
-        return self.stack.pop()
+    A decorator in Python is a callable that takes another function as input and extends or modifies its behavior without explicitly modifying it. It's a powerful tool for wrapping or decorating functions or classes.
 
-    def peek(self):
-        if self.stack:
-            return self.stack[-1]
-        return None
+    Here's a simple decorator function example:
+    ```python
+    def simple_decorator(function):
+        def wrapper():
+            print("Before function execution")
+            function()
+            print("After function execution")
+        return wrapper
 
-    def isEmpty(self):
-        return len(self.stack) == 0
-```
+    @simple_decorator
+    def hello_world():
+        print("Hello, world!")
+    ```
 
-A Queue is another data structure that follows the First-In-First-Out (FIFO) principle, meaning the first element added is the first one to be removed. The primary operations in a queue are `enqueue` (adds an element to the end of the queue), `dequeue` (removes an element from the front), `peek` or `front` (returns the first element without removing it), and `isEmpty` (checks if the queue is empty). Here's how you might implement a simple queue in Python:
+    In this example, when you call `hello_world()`, it will print "Before function execution", then "Hello, world!", and finally "After function execution". 
 
-```python
-class Queue:
-    def __init__(self):
-        self.queue = []
-
-    def enqueue(self, item):
-        self.queue.append(item)
-
-    def dequeue(self):
-        if len(self.queue) < 1:
-            return None
-        return self.queue.pop(0)
-
-    def peek(self):
-        if self.queue:
-            return self.queue[0]
-        return None
-
-    def isEmpty(self):
-        return len(self.queue) == 0
-```
-
-Both stacks and queues are fundamental data structures used in various types of algorithms and applications such as parsing, task scheduling, and more.
+    Decorators allow us to wrap another function in order to extend the behavior of the wrapped function, without permanently modifying it. Decorators are commonly used for logging, enforcing access control and authentication, instrumentation and timing functions, rate-limiting, and caching; among other things.
