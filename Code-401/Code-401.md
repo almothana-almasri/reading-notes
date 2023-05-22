@@ -11,7 +11,7 @@
 | Class 06 | [Ten Thousand Game 1](Class-06.md)                              |
 | Class 07 | [Ten Thousand Game 2](Class-07.md)                              |
 | Class 08 | [Ten Thousand Game 3](Class-08.md)                              |
-| Class 09 |                                                                 |
+| Class 09 | [Ten Thousand Game 4](Class-09.md)                              |
 | Class 10 | [Stacks and Queues](Class-10.md)                                |
 | Class 09 |                                                                 |
 | Class 09 |                                                                 |
