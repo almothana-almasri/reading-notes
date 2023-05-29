@@ -13,8 +13,8 @@
 | Class 08 | [Ten Thousand Game 3](Class-08.md)                              |
 | Class 09 | [Ten Thousand Game 4](Class-09.md)                              |
 | Class 10 | [Stacks and Queues](Class-10.md)                                |
-| Class 11 | [Data Analysis](Class-11.md)                                                                |
-| Class 09 |                                                                 |
+| Class 11 | [Data Analysis](Class-11.md)                                    |
+| Class 12 | [Pandas](Class-12.md)                                           |
 | Class 09 |                                                                 |
 | Class 09 |                                                                 |
 | Class 09 |                                                                 |
