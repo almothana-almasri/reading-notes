@@ -15,11 +15,11 @@
 | Class 10 | [Stacks and Queues](Class-10.md)                                |
 | Class 11 | [Data Analysis](Class-11.md)                                    |
 | Class 12 | [Pandas](Class-12.md)                                           |
-| Class 09 |                                                                 |
-| Class 09 |                                                                 |
-| Class 09 |                                                                 |
-| Class 09 |                                                                 |
-| Class 09 |                                                                 |
+| Class 13 | [Linear Regressions](Class-13.md)                               |
+| Class 14 |                                                                 |
+| Class 15 |                                                                 |
+| Class 16 |                                                                 |
+| Class 17 |                                                                 |
 
 
 
