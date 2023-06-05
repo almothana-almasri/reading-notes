@@ -16,7 +16,7 @@
 | Class 11 | [Data Analysis](Class-11.md)                                    |
 | Class 12 | [Pandas](Class-12.md)                                           |
 | Class 13 | [Linear Regressions](Class-13.md)                               |
-| Class 14 |                                                                 |
+| Class 14 | [Data Visualization](Class-14.md)                               |
 | Class 15 |                                                                 |
 | Class 16 |                                                                 |
 | Class 17 |                                                                 |
