@@ -17,7 +17,7 @@
 | Class 12 | [Pandas](Class-12.md)                                           |
 | Class 13 | [Linear Regressions](Class-13.md)                               |
 | Class 14 | [Data Visualization](Class-14.md)                               |
-| Class 15 |                                                                 |
+| Class 15 | [label](Class-15.md)                                            |
 | Class 16 |                                                                 |
 | Class 17 |                                                                 |
 
