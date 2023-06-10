@@ -1,5 +1,7 @@
 [Back to Home](../README.md)
 
+# Trees
+
 Trees are hierarchical structures composed of nodes connected by edges. They come in different types, such as Binary Trees, Binary Search Trees, and K-ary Trees.
 
 Important tree terms include nodes (holding values and references), root (the starting node), edges (connections between nodes), leaves (nodes without children), and height (the length from the root to the furthest leaf).
