@@ -19,7 +19,7 @@
 | Class 14 | [Data Visualization](Class-14.md)                               |
 | Class 15 | [Trees](Class-15.md)                                            |
 | Class 16 | [Serverless Functions](Class-16.md)                             |
-| Class 17 |                                                                 |
+| Class 17 | [Web Scraping](Class-17.md)                                     |
 
 
 
