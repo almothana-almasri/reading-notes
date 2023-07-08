@@ -21,5 +21,18 @@
 | Class 16 | [Serverless Functions](Class-16.md)                             |
 | Class 17 | [Web Scraping](Class-17.md)                                     |
 
+---
+
+| Class    | Reading Topic                                                   |
+|----------|-----------------------------------------------------------------|
+| Class 26 | [Intro to Django](Class-26.md)                                  |
+| Class 26 | [label](Class-26.md)                                            |
+| Class 26 | [label](Class-26.md)                                            |
+| Class 26 | [label](Class-26.md)                                            |
+| Class 26 | [label](Class-26.md)                                            |
+| Class 26 | [label](Class-26.md)                                            |
+| Class 26 | [label](Class-26.md)                                            |
+| Class 26 | [label](Class-26.md)                                            |
+
 
 
