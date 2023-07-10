@@ -26,7 +26,7 @@
 | Class    | Reading Topic                                                   |
 |----------|-----------------------------------------------------------------|
 | Class 26 | [Intro to Django](Class-26.md)                                  |
-| Class 26 | [label](Class-26.md)                                            |
+| Class 27 | [Django Models](Class-27.md)                                    |
 | Class 26 | [label](Class-26.md)                                            |
 | Class 26 | [label](Class-26.md)                                            |
 | Class 26 | [label](Class-26.md)                                            |
