@@ -17,3 +17,5 @@
 - [Practice in the Terminal](Prep-Readings/CommandLine.md)
 - [The Growth Mindset](Prep-Readings/GrowthMindset.md)
 - [SQL Practice](Prep-Readings/SQLpractice.md)
+
+*- Author: Almothana Almasri*
