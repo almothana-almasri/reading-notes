@@ -31,9 +31,16 @@
 | Class 28 | [Django CRUD and Forms](Class-28.md)                            |
 | Class 29 | [Django Custom User](Class-29.md)                               |
 | Class 30 | [Hash Tables](Class-30.md)                                      |
-| Class 31 | [Django REST Framework & Docker](Class-31.md)                                            |
-| Class 26 | [label](Class-26.md)                                            |
-| Class 26 | [label](Class-26.md)                                            |
+| Class 31 | [Django REST Framework & Docker](Class-31.md)                   |
+| Class 32 | [Permissions & Postgresql](Class-32.md)                         |
+| Class 33 | [label](Class-26.md)                                            |
+| Class 33 | [label](Class-26.md)                                            |
+| Class 33 | [label](Class-26.md)                                            |
+| Class 33 | [label](Class-26.md)                                            |
+| Class 33 | [label](Class-26.md)                                            |
+| Class 33 | [label](Class-26.md)                                            |
+| Class 33 | [label](Class-26.md)                                            |
+| Class 33 | [label](Class-26.md)                                            |
 
 
 
