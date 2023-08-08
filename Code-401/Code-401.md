@@ -35,7 +35,7 @@
 | Class 32 | [Permissions & Postgresql](Class-32.md)                         |
 | Class 33 | [Authentication & Production Server](Class-33.md)               |
 | Class 34 | [API Deployment](Class-34.md)                                   |
-| Class 33 | [label](Class-26.md)                                            |
+| Class 36 | [DSA Review](Class-36.md)                                       |
 | Class 33 | [label](Class-26.md)                                            |
 | Class 33 | [label](Class-26.md)                                            |
 | Class 33 | [label](Class-26.md)                                            |
