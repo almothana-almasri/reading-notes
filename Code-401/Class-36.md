@@ -1,6 +1,6 @@
 [Back to Home](../README.md)
 
-## Reading Class-34: API Deployment
+## Reading Class-36: DSA Review
 
 1. Key advice for whiteboard interviews:
    - Understand the problem before solving.
