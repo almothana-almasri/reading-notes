@@ -9,6 +9,7 @@ React Context is a feature for passing data through a React component tree witho
 `useContext` is a React Hook that lets functional components access data from a React Context. It avoids using `Context.Consumer`.
 
 Example:
+
 ```jsx
 import React, { useContext } from 'react';
 import MyContext from './MyContext';
