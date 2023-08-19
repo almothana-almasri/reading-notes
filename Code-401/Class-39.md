@@ -27,6 +27,7 @@ Example:
 1. Create `pages/posts/[slug].js`.
 2. Fetch post data based on slug.
 3. Utilize `getStaticPaths` and `getStaticProps` for routing and data fetching.
+
 ```jsx
 // pages/posts/[slug].js
 function Post({ post }) {
