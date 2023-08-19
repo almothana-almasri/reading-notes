@@ -37,9 +37,9 @@
 | Class 34 | [API Deployment](Class-34.md)                                   |
 | Class 36 | [DSA Review](Class-36.md)                                       |
 | Class 36.5 | [Graphs](Class-36.5.md)                                       |
-| Class 37 | [Tailwind CSS](Class-37.md)                                     |
+| Class 37 | [React 1](Class-37.md)                                          |
 | Class 38 | [React 2](Class-38.md)                                          |
-| Class 33 | [label](Class-26.md)                                            |
+| Class 39 | [React 3](Class-39.md)                                          |
 | Class 33 | [label](Class-26.md)                                            |
 
 
